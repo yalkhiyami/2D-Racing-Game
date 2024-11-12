@@ -38,3 +38,8 @@ Once executed, the game window should open, and you're ready to play!
 
 - Use your speed boost (`B`) wisely to gain a temporary advantage over the bot.
 - Plan your acceleration and movements to maintain control and avoid collisions.
+
+### Video Demonstration
+
+[![Watch the demo](https://img.youtube.com/vi/SMv9HHqWIUM/0.jpg)](https://www.youtube.com/watch?v=SMv9HHqWIUM)
+
