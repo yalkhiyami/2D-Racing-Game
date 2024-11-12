@@ -15,9 +15,8 @@ This 2D racing car game features 10 progressively challenging levels where you c
    - Navigate to the `car demo > tp0` directory.
    - Open the terminal in this directory and run the game script:
      ```bash
-     python <game_script_name.py>
+     python racinggame.py
      ```
-   (Replace `<game_script_name.py>` with the actual name of the main Python file.)
 
 Once executed, the game window should open, and you're ready to play!
 
