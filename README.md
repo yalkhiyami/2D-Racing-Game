@@ -1,7 +1,5 @@
 # 2D Racing Car Game
 
-## Description
-
 This 2D racing car game features 10 progressively challenging levels where you compete against a bot opponent. The bot's speed increases by 0.2 times with each level, making each race more difficult than the last. In the final level, both you and the bot reach the same maximum velocity; however, the bot starts at maximum speed while you must accelerate from a standstill. Mastering your controls and strategy is key to overtaking the bot and achieving victory!
 
 ## How to Run the Game
